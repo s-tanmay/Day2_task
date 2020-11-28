@@ -1,5 +1,9 @@
+# 6 Digit RandomNumber generator in js
+
 function randomNum(){
   return parseInt(Math.random()*Math.pow(10,6))
   }
   var x=randomNum();
   console.log(x);
+
+#
